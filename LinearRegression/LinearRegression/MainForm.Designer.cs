@@ -461,7 +461,7 @@ namespace LinearRegression
             this.panel8.Controls.Add(this.label94);
             this.panel8.Location = new System.Drawing.Point(400, 394);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(383, 56);
+            this.panel8.Size = new System.Drawing.Size(343, 56);
             this.panel8.TabIndex = 71;
             // 
             // xvallabel
@@ -536,7 +536,7 @@ namespace LinearRegression
             // ssrvaluessum
             // 
             this.ssrvaluessum.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ssrvaluessum.Location = new System.Drawing.Point(1454, 294);
+            this.ssrvaluessum.Location = new System.Drawing.Point(1342, 294);
             this.ssrvaluessum.Name = "ssrvaluessum";
             this.ssrvaluessum.ReadOnly = true;
             this.ssrvaluessum.Size = new System.Drawing.Size(81, 20);
@@ -546,7 +546,7 @@ namespace LinearRegression
             // esquaresum
             // 
             this.esquaresum.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.esquaresum.Location = new System.Drawing.Point(1339, 294);
+            this.esquaresum.Location = new System.Drawing.Point(1238, 294);
             this.esquaresum.Name = "esquaresum";
             this.esquaresum.ReadOnly = true;
             this.esquaresum.Size = new System.Drawing.Size(81, 20);
@@ -557,7 +557,7 @@ namespace LinearRegression
             // 
             this.label81.BackColor = System.Drawing.Color.Red;
             this.label81.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label81.Location = new System.Drawing.Point(1454, 115);
+            this.label81.Location = new System.Drawing.Point(1342, 115);
             this.label81.Name = "label81";
             this.label81.Size = new System.Drawing.Size(98, 18);
             this.label81.TabIndex = 68;
@@ -568,7 +568,7 @@ namespace LinearRegression
             // 
             this.label82.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label82.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label82.Location = new System.Drawing.Point(1339, 115);
+            this.label82.Location = new System.Drawing.Point(1238, 115);
             this.label82.Name = "label82";
             this.label82.Size = new System.Drawing.Size(97, 18);
             this.label82.TabIndex = 67;
@@ -578,7 +578,7 @@ namespace LinearRegression
             // ssrvalues
             // 
             this.ssrvalues.AcceptsReturn = true;
-            this.ssrvalues.Location = new System.Drawing.Point(1454, 133);
+            this.ssrvalues.Location = new System.Drawing.Point(1342, 133);
             this.ssrvalues.Multiline = true;
             this.ssrvalues.Name = "ssrvalues";
             this.ssrvalues.ReadOnly = true;
@@ -590,7 +590,7 @@ namespace LinearRegression
             // esquare
             // 
             this.esquare.AcceptsReturn = true;
-            this.esquare.Location = new System.Drawing.Point(1339, 133);
+            this.esquare.Location = new System.Drawing.Point(1238, 133);
             this.esquare.Multiline = true;
             this.esquare.Name = "esquare";
             this.esquare.ReadOnly = true;
@@ -1061,7 +1061,7 @@ namespace LinearRegression
             // 
             // yvalname
             // 
-            this.yvalname.Location = new System.Drawing.Point(652, 113);
+            this.yvalname.Location = new System.Drawing.Point(637, 113);
             this.yvalname.Name = "yvalname";
             this.yvalname.Size = new System.Drawing.Size(81, 20);
             this.yvalname.TabIndex = 3;
@@ -1070,7 +1070,7 @@ namespace LinearRegression
             // 
             this.label70.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label70.ForeColor = System.Drawing.Color.DarkRed;
-            this.label70.Location = new System.Drawing.Point(1173, 393);
+            this.label70.Location = new System.Drawing.Point(1112, 393);
             this.label70.Name = "label70";
             this.label70.Size = new System.Drawing.Size(367, 52);
             this.label70.TabIndex = 62;
@@ -1246,15 +1246,15 @@ namespace LinearRegression
             // 
             this.label61.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label61.ForeColor = System.Drawing.Color.DarkRed;
-            this.label61.Location = new System.Drawing.Point(786, 393);
+            this.label61.Location = new System.Drawing.Point(746, 387);
             this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(379, 53);
+            this.label61.Size = new System.Drawing.Size(370, 56);
             this.label61.TabIndex = 59;
             this.label61.Text = resources.GetString("label61.Text");
             // 
             // btnmodifyintervalchart3
             // 
-            this.btnmodifyintervalchart3.Location = new System.Drawing.Point(1508, 449);
+            this.btnmodifyintervalchart3.Location = new System.Drawing.Point(1447, 449);
             this.btnmodifyintervalchart3.Name = "btnmodifyintervalchart3";
             this.btnmodifyintervalchart3.Size = new System.Drawing.Size(46, 20);
             this.btnmodifyintervalchart3.TabIndex = 58;
@@ -1264,7 +1264,7 @@ namespace LinearRegression
             // 
             // btnmodifyintervalchart2
             // 
-            this.btnmodifyintervalchart2.Location = new System.Drawing.Point(1102, 449);
+            this.btnmodifyintervalchart2.Location = new System.Drawing.Point(1062, 449);
             this.btnmodifyintervalchart2.Name = "btnmodifyintervalchart2";
             this.btnmodifyintervalchart2.Size = new System.Drawing.Size(46, 20);
             this.btnmodifyintervalchart2.TabIndex = 57;
@@ -1284,7 +1284,7 @@ namespace LinearRegression
             // 
             // xintervalchart3
             // 
-            this.xintervalchart3.Location = new System.Drawing.Point(1460, 450);
+            this.xintervalchart3.Location = new System.Drawing.Point(1399, 450);
             this.xintervalchart3.Multiline = true;
             this.xintervalchart3.Name = "xintervalchart3";
             this.xintervalchart3.Size = new System.Drawing.Size(45, 18);
@@ -1292,7 +1292,7 @@ namespace LinearRegression
             // 
             // xintervalchart2
             // 
-            this.xintervalchart2.Location = new System.Drawing.Point(1053, 450);
+            this.xintervalchart2.Location = new System.Drawing.Point(1013, 450);
             this.xintervalchart2.Multiline = true;
             this.xintervalchart2.Name = "xintervalchart2";
             this.xintervalchart2.Size = new System.Drawing.Size(45, 18);
@@ -1309,7 +1309,7 @@ namespace LinearRegression
             // label60
             // 
             this.label60.AutoSize = true;
-            this.label60.Location = new System.Drawing.Point(1406, 454);
+            this.label60.Location = new System.Drawing.Point(1340, 454);
             this.label60.Name = "label60";
             this.label60.Size = new System.Drawing.Size(55, 13);
             this.label60.TabIndex = 52;
@@ -1318,7 +1318,7 @@ namespace LinearRegression
             // label59
             // 
             this.label59.AutoSize = true;
-            this.label59.Location = new System.Drawing.Point(995, 454);
+            this.label59.Location = new System.Drawing.Point(956, 454);
             this.label59.Name = "label59";
             this.label59.Size = new System.Drawing.Size(55, 13);
             this.label59.TabIndex = 51;
@@ -1419,7 +1419,7 @@ namespace LinearRegression
             // 
             this.label16.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(1176, 450);
+            this.label16.Location = new System.Drawing.Point(1113, 450);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(224, 17);
             this.label16.TabIndex = 41;
@@ -1429,7 +1429,7 @@ namespace LinearRegression
             // 
             this.label15.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(788, 451);
+            this.label15.Location = new System.Drawing.Point(748, 451);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(206, 16);
             this.label15.TabIndex = 40;
@@ -1453,7 +1453,7 @@ namespace LinearRegression
             this.chart3.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
             chartArea1.Name = "ChartArea1";
             this.chart3.ChartAreas.Add(chartArea1);
-            this.chart3.Location = new System.Drawing.Point(1175, 468);
+            this.chart3.Location = new System.Drawing.Point(1112, 468);
             this.chart3.Name = "chart3";
             this.chart3.Size = new System.Drawing.Size(382, 244);
             this.chart3.TabIndex = 38;
@@ -1465,9 +1465,9 @@ namespace LinearRegression
             this.chart2.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
             chartArea2.Name = "ChartArea1";
             this.chart2.ChartAreas.Add(chartArea2);
-            this.chart2.Location = new System.Drawing.Point(787, 468);
+            this.chart2.Location = new System.Drawing.Point(747, 468);
             this.chart2.Name = "chart2";
-            this.chart2.Size = new System.Drawing.Size(384, 244);
+            this.chart2.Size = new System.Drawing.Size(361, 244);
             this.chart2.TabIndex = 37;
             this.chart2.Text = "chart2";
             // 
@@ -1479,7 +1479,7 @@ namespace LinearRegression
             this.chart1.ChartAreas.Add(chartArea3);
             this.chart1.Location = new System.Drawing.Point(400, 468);
             this.chart1.Name = "chart1";
-            this.chart1.Size = new System.Drawing.Size(383, 244);
+            this.chart1.Size = new System.Drawing.Size(343, 244);
             this.chart1.TabIndex = 36;
             this.chart1.Text = "chart1";
             // 
@@ -1752,7 +1752,7 @@ namespace LinearRegression
             // sumxx
             // 
             this.sumxx.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumxx.Location = new System.Drawing.Point(987, 294);
+            this.sumxx.Location = new System.Drawing.Point(928, 294);
             this.sumxx.Name = "sumxx";
             this.sumxx.ReadOnly = true;
             this.sumxx.Size = new System.Drawing.Size(81, 20);
@@ -1762,7 +1762,7 @@ namespace LinearRegression
             // sumyy
             // 
             this.sumyy.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumyy.Location = new System.Drawing.Point(868, 294);
+            this.sumyy.Location = new System.Drawing.Point(826, 294);
             this.sumyy.Name = "sumyy";
             this.sumyy.ReadOnly = true;
             this.sumyy.Size = new System.Drawing.Size(81, 20);
@@ -1772,7 +1772,7 @@ namespace LinearRegression
             // sumxy
             // 
             this.sumxy.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumxy.Location = new System.Drawing.Point(751, 294);
+            this.sumxy.Location = new System.Drawing.Point(724, 294);
             this.sumxy.Name = "sumxy";
             this.sumxy.ReadOnly = true;
             this.sumxy.Size = new System.Drawing.Size(81, 20);
@@ -1792,7 +1792,7 @@ namespace LinearRegression
             // sumy
             // 
             this.sumy.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumy.Location = new System.Drawing.Point(636, 294);
+            this.sumy.Location = new System.Drawing.Point(621, 294);
             this.sumy.Name = "sumy";
             this.sumy.ReadOnly = true;
             this.sumy.Size = new System.Drawing.Size(81, 20);
@@ -1812,7 +1812,7 @@ namespace LinearRegression
             // 
             this.label8.BackColor = System.Drawing.Color.Red;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(1223, 115);
+            this.label8.Location = new System.Drawing.Point(1134, 115);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(97, 18);
             this.label8.TabIndex = 17;
@@ -1823,7 +1823,7 @@ namespace LinearRegression
             // 
             this.label7.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(1105, 115);
+            this.label7.Location = new System.Drawing.Point(1031, 115);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(97, 18);
             this.label7.TabIndex = 16;
@@ -1834,7 +1834,7 @@ namespace LinearRegression
             // 
             this.label6.BackColor = System.Drawing.Color.Red;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(987, 115);
+            this.label6.Location = new System.Drawing.Point(928, 115);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(97, 18);
             this.label6.TabIndex = 15;
@@ -1845,7 +1845,7 @@ namespace LinearRegression
             // 
             this.label5.BackColor = System.Drawing.Color.Red;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(868, 115);
+            this.label5.Location = new System.Drawing.Point(826, 115);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(97, 18);
             this.label5.TabIndex = 14;
@@ -1856,7 +1856,7 @@ namespace LinearRegression
             // 
             this.label4.BackColor = System.Drawing.Color.Red;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(751, 115);
+            this.label4.Location = new System.Drawing.Point(724, 115);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(97, 18);
             this.label4.TabIndex = 13;
@@ -1880,7 +1880,7 @@ namespace LinearRegression
             this.label2.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label2.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(636, 115);
+            this.label2.Location = new System.Drawing.Point(621, 115);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(15, 18);
             this.label2.TabIndex = 11;
@@ -1890,7 +1890,7 @@ namespace LinearRegression
             // residual
             // 
             this.residual.AcceptsReturn = true;
-            this.residual.Location = new System.Drawing.Point(1223, 133);
+            this.residual.Location = new System.Drawing.Point(1134, 133);
             this.residual.Multiline = true;
             this.residual.Name = "residual";
             this.residual.ReadOnly = true;
@@ -1902,7 +1902,7 @@ namespace LinearRegression
             // predicty
             // 
             this.predicty.AcceptsReturn = true;
-            this.predicty.Location = new System.Drawing.Point(1105, 133);
+            this.predicty.Location = new System.Drawing.Point(1031, 133);
             this.predicty.Multiline = true;
             this.predicty.Name = "predicty";
             this.predicty.ReadOnly = true;
@@ -1914,7 +1914,7 @@ namespace LinearRegression
             // xyvaluestxtbox
             // 
             this.xyvaluestxtbox.AcceptsReturn = true;
-            this.xyvaluestxtbox.Location = new System.Drawing.Point(751, 133);
+            this.xyvaluestxtbox.Location = new System.Drawing.Point(724, 133);
             this.xyvaluestxtbox.Multiline = true;
             this.xyvaluestxtbox.Name = "xyvaluestxtbox";
             this.xyvaluestxtbox.ReadOnly = true;
@@ -1926,7 +1926,7 @@ namespace LinearRegression
             // yyvaluestxtbox
             // 
             this.yyvaluestxtbox.AcceptsReturn = true;
-            this.yyvaluestxtbox.Location = new System.Drawing.Point(868, 133);
+            this.yyvaluestxtbox.Location = new System.Drawing.Point(826, 133);
             this.yyvaluestxtbox.Multiline = true;
             this.yyvaluestxtbox.Name = "yyvaluestxtbox";
             this.yyvaluestxtbox.ReadOnly = true;
@@ -1938,7 +1938,7 @@ namespace LinearRegression
             // xxvaluestxtbox
             // 
             this.xxvaluestxtbox.AcceptsReturn = true;
-            this.xxvaluestxtbox.Location = new System.Drawing.Point(987, 133);
+            this.xxvaluestxtbox.Location = new System.Drawing.Point(928, 133);
             this.xxvaluestxtbox.Multiline = true;
             this.xxvaluestxtbox.Name = "xxvaluestxtbox";
             this.xxvaluestxtbox.ReadOnly = true;
@@ -1962,7 +1962,7 @@ namespace LinearRegression
             // 
             this.yvaluestxtbox.AcceptsReturn = true;
             this.yvaluestxtbox.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.yvaluestxtbox.Location = new System.Drawing.Point(636, 133);
+            this.yvaluestxtbox.Location = new System.Drawing.Point(621, 133);
             this.yvaluestxtbox.Multiline = true;
             this.yvaluestxtbox.Name = "yvaluestxtbox";
             this.yvaluestxtbox.ScrollBars = System.Windows.Forms.ScrollBars.Both;
@@ -2086,13 +2086,13 @@ namespace LinearRegression
             this.Mchart2.ChartAreas.Add(chartArea4);
             this.Mchart2.Location = new System.Drawing.Point(14, 411);
             this.Mchart2.Name = "Mchart2";
-            this.Mchart2.Size = new System.Drawing.Size(499, 302);
+            this.Mchart2.Size = new System.Drawing.Size(478, 302);
             this.Mchart2.TabIndex = 105;
             this.Mchart2.Text = "chart4";
             // 
             // x3textbox
             // 
-            this.x3textbox.Location = new System.Drawing.Point(925, 151);
+            this.x3textbox.Location = new System.Drawing.Point(887, 151);
             this.x3textbox.Name = "x3textbox";
             this.x3textbox.ReadOnly = true;
             this.x3textbox.Size = new System.Drawing.Size(74, 20);
@@ -2100,7 +2100,7 @@ namespace LinearRegression
             // 
             // x2textbox
             // 
-            this.x2textbox.Location = new System.Drawing.Point(824, 151);
+            this.x2textbox.Location = new System.Drawing.Point(786, 151);
             this.x2textbox.Name = "x2textbox";
             this.x2textbox.ReadOnly = true;
             this.x2textbox.Size = new System.Drawing.Size(74, 20);
@@ -2108,7 +2108,7 @@ namespace LinearRegression
             // 
             // x1textbox
             // 
-            this.x1textbox.Location = new System.Drawing.Point(723, 151);
+            this.x1textbox.Location = new System.Drawing.Point(685, 151);
             this.x1textbox.Name = "x1textbox";
             this.x1textbox.ReadOnly = true;
             this.x1textbox.Size = new System.Drawing.Size(74, 20);
@@ -2116,7 +2116,7 @@ namespace LinearRegression
             // 
             // ytextbox
             // 
-            this.ytextbox.Location = new System.Drawing.Point(616, 151);
+            this.ytextbox.Location = new System.Drawing.Point(578, 151);
             this.ytextbox.Name = "ytextbox";
             this.ytextbox.Size = new System.Drawing.Size(80, 20);
             this.ytextbox.TabIndex = 3;
@@ -2127,7 +2127,7 @@ namespace LinearRegression
             this.Mchart1.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
             chartArea5.Name = "ChartArea1";
             this.Mchart1.ChartAreas.Add(chartArea5);
-            this.Mchart1.Location = new System.Drawing.Point(1023, 512);
+            this.Mchart1.Location = new System.Drawing.Point(981, 512);
             this.Mchart1.Name = "Mchart1";
             this.Mchart1.Size = new System.Drawing.Size(526, 201);
             this.Mchart1.TabIndex = 104;
@@ -2139,7 +2139,7 @@ namespace LinearRegression
             this.panel4.Controls.Add(this.btnactivate);
             this.panel4.Controls.Add(this.txtnum);
             this.panel4.Controls.Add(this.label66);
-            this.panel4.Location = new System.Drawing.Point(598, 99);
+            this.panel4.Location = new System.Drawing.Point(559, 99);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(400, 29);
             this.panel4.TabIndex = 103;
@@ -2253,7 +2253,7 @@ namespace LinearRegression
             this.panel3.Controls.Add(this.label48);
             this.panel3.Controls.Add(this.label49);
             this.panel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.panel3.Location = new System.Drawing.Point(566, 506);
+            this.panel3.Location = new System.Drawing.Point(501, 506);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(434, 207);
             this.panel3.TabIndex = 96;
@@ -2548,7 +2548,7 @@ namespace LinearRegression
             this.panel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.panel2.Location = new System.Drawing.Point(12, 258);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(501, 139);
+            this.panel2.Size = new System.Drawing.Size(478, 141);
             this.panel2.TabIndex = 86;
             // 
             // label57
@@ -2556,7 +2556,7 @@ namespace LinearRegression
             this.label57.AutoSize = true;
             this.label57.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label57.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label57.Location = new System.Drawing.Point(265, 100);
+            this.label57.Location = new System.Drawing.Point(256, 100);
             this.label57.Name = "label57";
             this.label57.Size = new System.Drawing.Size(205, 13);
             this.label57.TabIndex = 97;
@@ -2566,7 +2566,7 @@ namespace LinearRegression
             // 
             this.label56.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label56.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label56.Location = new System.Drawing.Point(267, 50);
+            this.label56.Location = new System.Drawing.Point(258, 50);
             this.label56.Name = "label56";
             this.label56.Size = new System.Drawing.Size(37, 16);
             this.label56.TabIndex = 96;
@@ -2575,7 +2575,7 @@ namespace LinearRegression
             // grandmean
             // 
             this.grandmean.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grandmean.Location = new System.Drawing.Point(169, 95);
+            this.grandmean.Location = new System.Drawing.Point(160, 95);
             this.grandmean.Name = "grandmean";
             this.grandmean.ReadOnly = true;
             this.grandmean.Size = new System.Drawing.Size(96, 20);
@@ -2585,7 +2585,7 @@ namespace LinearRegression
             // label44
             // 
             this.label44.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label44.Location = new System.Drawing.Point(71, 95);
+            this.label44.Location = new System.Drawing.Point(62, 95);
             this.label44.Name = "label44";
             this.label44.Size = new System.Drawing.Size(96, 23);
             this.label44.TabIndex = 94;
@@ -2594,7 +2594,7 @@ namespace LinearRegression
             // x3coeff
             // 
             this.x3coeff.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x3coeff.Location = new System.Drawing.Point(372, 72);
+            this.x3coeff.Location = new System.Drawing.Point(363, 72);
             this.x3coeff.Name = "x3coeff";
             this.x3coeff.ReadOnly = true;
             this.x3coeff.Size = new System.Drawing.Size(98, 20);
@@ -2604,7 +2604,7 @@ namespace LinearRegression
             // x2coeff
             // 
             this.x2coeff.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x2coeff.Location = new System.Drawing.Point(270, 72);
+            this.x2coeff.Location = new System.Drawing.Point(261, 72);
             this.x2coeff.Name = "x2coeff";
             this.x2coeff.ReadOnly = true;
             this.x2coeff.Size = new System.Drawing.Size(98, 20);
@@ -2614,7 +2614,7 @@ namespace LinearRegression
             // x1coeff
             // 
             this.x1coeff.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x1coeff.Location = new System.Drawing.Point(169, 72);
+            this.x1coeff.Location = new System.Drawing.Point(160, 72);
             this.x1coeff.Name = "x1coeff";
             this.x1coeff.ReadOnly = true;
             this.x1coeff.Size = new System.Drawing.Size(98, 20);
@@ -2624,7 +2624,7 @@ namespace LinearRegression
             // label43
             // 
             this.label43.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label43.Location = new System.Drawing.Point(20, 72);
+            this.label43.Location = new System.Drawing.Point(11, 72);
             this.label43.Name = "label43";
             this.label43.Size = new System.Drawing.Size(147, 23);
             this.label43.TabIndex = 90;
@@ -2634,7 +2634,7 @@ namespace LinearRegression
             // interceptm
             // 
             this.interceptm.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.interceptm.Location = new System.Drawing.Point(169, 49);
+            this.interceptm.Location = new System.Drawing.Point(160, 49);
             this.interceptm.Name = "interceptm";
             this.interceptm.ReadOnly = true;
             this.interceptm.Size = new System.Drawing.Size(98, 20);
@@ -2644,7 +2644,7 @@ namespace LinearRegression
             // label42
             // 
             this.label42.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label42.Location = new System.Drawing.Point(100, 49);
+            this.label42.Location = new System.Drawing.Point(91, 49);
             this.label42.Name = "label42";
             this.label42.Size = new System.Drawing.Size(67, 23);
             this.label42.TabIndex = 86;
@@ -2655,7 +2655,7 @@ namespace LinearRegression
             this.label41.AutoSize = true;
             this.label41.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label41.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.label41.Location = new System.Drawing.Point(252, 7);
+            this.label41.Location = new System.Drawing.Point(243, 7);
             this.label41.Name = "label41";
             this.label41.Size = new System.Drawing.Size(193, 16);
             this.label41.TabIndex = 1;
@@ -2666,7 +2666,7 @@ namespace LinearRegression
             this.label40.AutoSize = true;
             this.label40.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label40.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.label40.Location = new System.Drawing.Point(10, 7);
+            this.label40.Location = new System.Drawing.Point(1, 7);
             this.label40.Name = "label40";
             this.label40.Size = new System.Drawing.Size(241, 16);
             this.label40.TabIndex = 0;
@@ -2675,7 +2675,7 @@ namespace LinearRegression
             // estefx3
             // 
             this.estefx3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.estefx3.Location = new System.Drawing.Point(901, 467);
+            this.estefx3.Location = new System.Drawing.Point(863, 467);
             this.estefx3.Name = "estefx3";
             this.estefx3.ReadOnly = true;
             this.estefx3.Size = new System.Drawing.Size(98, 20);
@@ -2685,7 +2685,7 @@ namespace LinearRegression
             // estefx2
             // 
             this.estefx2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.estefx2.Location = new System.Drawing.Point(800, 467);
+            this.estefx2.Location = new System.Drawing.Point(762, 467);
             this.estefx2.Name = "estefx2";
             this.estefx2.ReadOnly = true;
             this.estefx2.Size = new System.Drawing.Size(98, 20);
@@ -2695,7 +2695,7 @@ namespace LinearRegression
             // estefx1
             // 
             this.estefx1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.estefx1.Location = new System.Drawing.Point(699, 467);
+            this.estefx1.Location = new System.Drawing.Point(661, 467);
             this.estefx1.Name = "estefx1";
             this.estefx1.ReadOnly = true;
             this.estefx1.Size = new System.Drawing.Size(98, 20);
@@ -2705,7 +2705,7 @@ namespace LinearRegression
             // label39
             // 
             this.label39.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label39.Location = new System.Drawing.Point(576, 467);
+            this.label39.Location = new System.Drawing.Point(538, 467);
             this.label39.Name = "label39";
             this.label39.Size = new System.Drawing.Size(122, 23);
             this.label39.TabIndex = 81;
@@ -2734,7 +2734,7 @@ namespace LinearRegression
             // x3stdv
             // 
             this.x3stdv.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x3stdv.Location = new System.Drawing.Point(901, 444);
+            this.x3stdv.Location = new System.Drawing.Point(863, 444);
             this.x3stdv.Name = "x3stdv";
             this.x3stdv.ReadOnly = true;
             this.x3stdv.Size = new System.Drawing.Size(98, 20);
@@ -2744,7 +2744,7 @@ namespace LinearRegression
             // x2stdv
             // 
             this.x2stdv.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x2stdv.Location = new System.Drawing.Point(800, 444);
+            this.x2stdv.Location = new System.Drawing.Point(762, 444);
             this.x2stdv.Name = "x2stdv";
             this.x2stdv.ReadOnly = true;
             this.x2stdv.Size = new System.Drawing.Size(98, 20);
@@ -2754,7 +2754,7 @@ namespace LinearRegression
             // x1stdv
             // 
             this.x1stdv.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x1stdv.Location = new System.Drawing.Point(699, 444);
+            this.x1stdv.Location = new System.Drawing.Point(661, 444);
             this.x1stdv.Name = "x1stdv";
             this.x1stdv.ReadOnly = true;
             this.x1stdv.Size = new System.Drawing.Size(98, 20);
@@ -2764,7 +2764,7 @@ namespace LinearRegression
             // ystdv
             // 
             this.ystdv.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ystdv.Location = new System.Drawing.Point(598, 444);
+            this.ystdv.Location = new System.Drawing.Point(560, 444);
             this.ystdv.Name = "ystdv";
             this.ystdv.ReadOnly = true;
             this.ystdv.Size = new System.Drawing.Size(98, 20);
@@ -2774,7 +2774,7 @@ namespace LinearRegression
             // label38
             // 
             this.label38.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label38.Location = new System.Drawing.Point(537, 450);
+            this.label38.Location = new System.Drawing.Point(499, 450);
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(60, 23);
             this.label38.TabIndex = 74;
@@ -2783,7 +2783,7 @@ namespace LinearRegression
             // x3variance
             // 
             this.x3variance.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x3variance.Location = new System.Drawing.Point(901, 421);
+            this.x3variance.Location = new System.Drawing.Point(863, 421);
             this.x3variance.Name = "x3variance";
             this.x3variance.ReadOnly = true;
             this.x3variance.Size = new System.Drawing.Size(98, 20);
@@ -2793,7 +2793,7 @@ namespace LinearRegression
             // x2variance
             // 
             this.x2variance.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x2variance.Location = new System.Drawing.Point(800, 421);
+            this.x2variance.Location = new System.Drawing.Point(762, 421);
             this.x2variance.Name = "x2variance";
             this.x2variance.ReadOnly = true;
             this.x2variance.Size = new System.Drawing.Size(98, 20);
@@ -2803,7 +2803,7 @@ namespace LinearRegression
             // x1variance
             // 
             this.x1variance.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.x1variance.Location = new System.Drawing.Point(699, 421);
+            this.x1variance.Location = new System.Drawing.Point(661, 421);
             this.x1variance.Name = "x1variance";
             this.x1variance.ReadOnly = true;
             this.x1variance.Size = new System.Drawing.Size(98, 20);
@@ -2813,7 +2813,7 @@ namespace LinearRegression
             // yvariance
             // 
             this.yvariance.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.yvariance.Location = new System.Drawing.Point(598, 421);
+            this.yvariance.Location = new System.Drawing.Point(560, 421);
             this.yvariance.Name = "yvariance";
             this.yvariance.ReadOnly = true;
             this.yvariance.Size = new System.Drawing.Size(98, 20);
@@ -2823,7 +2823,7 @@ namespace LinearRegression
             // label37
             // 
             this.label37.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label37.Location = new System.Drawing.Point(531, 427);
+            this.label37.Location = new System.Drawing.Point(493, 427);
             this.label37.Name = "label37";
             this.label37.Size = new System.Drawing.Size(67, 23);
             this.label37.TabIndex = 69;
@@ -2832,7 +2832,7 @@ namespace LinearRegression
             // meanx3m
             // 
             this.meanx3m.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.meanx3m.Location = new System.Drawing.Point(901, 398);
+            this.meanx3m.Location = new System.Drawing.Point(863, 398);
             this.meanx3m.Name = "meanx3m";
             this.meanx3m.ReadOnly = true;
             this.meanx3m.Size = new System.Drawing.Size(98, 20);
@@ -2842,7 +2842,7 @@ namespace LinearRegression
             // meanx2m
             // 
             this.meanx2m.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.meanx2m.Location = new System.Drawing.Point(800, 398);
+            this.meanx2m.Location = new System.Drawing.Point(762, 398);
             this.meanx2m.Name = "meanx2m";
             this.meanx2m.ReadOnly = true;
             this.meanx2m.Size = new System.Drawing.Size(98, 20);
@@ -2852,7 +2852,7 @@ namespace LinearRegression
             // meanx1m
             // 
             this.meanx1m.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.meanx1m.Location = new System.Drawing.Point(699, 398);
+            this.meanx1m.Location = new System.Drawing.Point(661, 398);
             this.meanx1m.Name = "meanx1m";
             this.meanx1m.ReadOnly = true;
             this.meanx1m.Size = new System.Drawing.Size(98, 20);
@@ -2862,7 +2862,7 @@ namespace LinearRegression
             // meanym
             // 
             this.meanym.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.meanym.Location = new System.Drawing.Point(598, 398);
+            this.meanym.Location = new System.Drawing.Point(560, 398);
             this.meanym.Name = "meanym";
             this.meanym.ReadOnly = true;
             this.meanym.Size = new System.Drawing.Size(98, 20);
@@ -2872,7 +2872,7 @@ namespace LinearRegression
             // label36
             // 
             this.label36.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label36.Location = new System.Drawing.Point(551, 404);
+            this.label36.Location = new System.Drawing.Point(513, 404);
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(47, 23);
             this.label36.TabIndex = 64;
@@ -2881,7 +2881,7 @@ namespace LinearRegression
             // sumx1x3
             // 
             this.sumx1x3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx1x3.Location = new System.Drawing.Point(1451, 483);
+            this.sumx1x3.Location = new System.Drawing.Point(1407, 483);
             this.sumx1x3.Name = "sumx1x3";
             this.sumx1x3.ReadOnly = true;
             this.sumx1x3.Size = new System.Drawing.Size(98, 20);
@@ -2894,7 +2894,7 @@ namespace LinearRegression
             this.label35.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label35.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label35.ForeColor = System.Drawing.Color.White;
-            this.label35.Location = new System.Drawing.Point(1451, 305);
+            this.label35.Location = new System.Drawing.Point(1407, 305);
             this.label35.Name = "label35";
             this.label35.Size = new System.Drawing.Size(79, 17);
             this.label35.TabIndex = 62;
@@ -2904,7 +2904,7 @@ namespace LinearRegression
             // x1x3valuestxtbox
             // 
             this.x1x3valuestxtbox.AcceptsReturn = true;
-            this.x1x3valuestxtbox.Location = new System.Drawing.Point(1451, 322);
+            this.x1x3valuestxtbox.Location = new System.Drawing.Point(1407, 322);
             this.x1x3valuestxtbox.Multiline = true;
             this.x1x3valuestxtbox.Name = "x1x3valuestxtbox";
             this.x1x3valuestxtbox.ReadOnly = true;
@@ -2915,7 +2915,7 @@ namespace LinearRegression
             // sumx2x3
             // 
             this.sumx2x3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx2x3.Location = new System.Drawing.Point(1344, 483);
+            this.sumx2x3.Location = new System.Drawing.Point(1300, 483);
             this.sumx2x3.Name = "sumx2x3";
             this.sumx2x3.ReadOnly = true;
             this.sumx2x3.Size = new System.Drawing.Size(98, 20);
@@ -2928,7 +2928,7 @@ namespace LinearRegression
             this.label34.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label34.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label34.ForeColor = System.Drawing.Color.White;
-            this.label34.Location = new System.Drawing.Point(1344, 305);
+            this.label34.Location = new System.Drawing.Point(1300, 305);
             this.label34.Name = "label34";
             this.label34.Size = new System.Drawing.Size(79, 17);
             this.label34.TabIndex = 59;
@@ -2938,7 +2938,7 @@ namespace LinearRegression
             // x2x3valuestxtbox
             // 
             this.x2x3valuestxtbox.AcceptsReturn = true;
-            this.x2x3valuestxtbox.Location = new System.Drawing.Point(1344, 322);
+            this.x2x3valuestxtbox.Location = new System.Drawing.Point(1300, 322);
             this.x2x3valuestxtbox.Multiline = true;
             this.x2x3valuestxtbox.Name = "x2x3valuestxtbox";
             this.x2x3valuestxtbox.ReadOnly = true;
@@ -2949,7 +2949,7 @@ namespace LinearRegression
             // sumx1x2
             // 
             this.sumx1x2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx1x2.Location = new System.Drawing.Point(1237, 483);
+            this.sumx1x2.Location = new System.Drawing.Point(1193, 483);
             this.sumx1x2.Name = "sumx1x2";
             this.sumx1x2.ReadOnly = true;
             this.sumx1x2.Size = new System.Drawing.Size(98, 20);
@@ -2962,7 +2962,7 @@ namespace LinearRegression
             this.label33.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label33.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label33.ForeColor = System.Drawing.Color.White;
-            this.label33.Location = new System.Drawing.Point(1237, 305);
+            this.label33.Location = new System.Drawing.Point(1193, 305);
             this.label33.Name = "label33";
             this.label33.Size = new System.Drawing.Size(79, 17);
             this.label33.TabIndex = 56;
@@ -2972,7 +2972,7 @@ namespace LinearRegression
             // x1x2valuestxtbox
             // 
             this.x1x2valuestxtbox.AcceptsReturn = true;
-            this.x1x2valuestxtbox.Location = new System.Drawing.Point(1237, 322);
+            this.x1x2valuestxtbox.Location = new System.Drawing.Point(1193, 322);
             this.x1x2valuestxtbox.Multiline = true;
             this.x1x2valuestxtbox.Name = "x1x2valuestxtbox";
             this.x1x2valuestxtbox.ReadOnly = true;
@@ -2983,7 +2983,7 @@ namespace LinearRegression
             // sumx3x3
             // 
             this.sumx3x3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx3x3.Location = new System.Drawing.Point(1131, 483);
+            this.sumx3x3.Location = new System.Drawing.Point(1087, 483);
             this.sumx3x3.Name = "sumx3x3";
             this.sumx3x3.ReadOnly = true;
             this.sumx3x3.Size = new System.Drawing.Size(98, 20);
@@ -2996,7 +2996,7 @@ namespace LinearRegression
             this.label32.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label32.ForeColor = System.Drawing.Color.White;
-            this.label32.Location = new System.Drawing.Point(1131, 305);
+            this.label32.Location = new System.Drawing.Point(1087, 305);
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(79, 17);
             this.label32.TabIndex = 53;
@@ -3006,7 +3006,7 @@ namespace LinearRegression
             // x3x3valuestxtbox
             // 
             this.x3x3valuestxtbox.AcceptsReturn = true;
-            this.x3x3valuestxtbox.Location = new System.Drawing.Point(1131, 322);
+            this.x3x3valuestxtbox.Location = new System.Drawing.Point(1087, 322);
             this.x3x3valuestxtbox.Multiline = true;
             this.x3x3valuestxtbox.Name = "x3x3valuestxtbox";
             this.x3x3valuestxtbox.ReadOnly = true;
@@ -3017,7 +3017,7 @@ namespace LinearRegression
             // sumx2x2
             // 
             this.sumx2x2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx2x2.Location = new System.Drawing.Point(1024, 483);
+            this.sumx2x2.Location = new System.Drawing.Point(980, 483);
             this.sumx2x2.Name = "sumx2x2";
             this.sumx2x2.ReadOnly = true;
             this.sumx2x2.Size = new System.Drawing.Size(98, 20);
@@ -3030,7 +3030,7 @@ namespace LinearRegression
             this.label31.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label31.ForeColor = System.Drawing.Color.White;
-            this.label31.Location = new System.Drawing.Point(1024, 305);
+            this.label31.Location = new System.Drawing.Point(980, 305);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(79, 17);
             this.label31.TabIndex = 50;
@@ -3040,7 +3040,7 @@ namespace LinearRegression
             // x2x2valuestxtbox
             // 
             this.x2x2valuestxtbox.AcceptsReturn = true;
-            this.x2x2valuestxtbox.Location = new System.Drawing.Point(1024, 322);
+            this.x2x2valuestxtbox.Location = new System.Drawing.Point(980, 322);
             this.x2x2valuestxtbox.Multiline = true;
             this.x2x2valuestxtbox.Name = "x2x2valuestxtbox";
             this.x2x2valuestxtbox.ReadOnly = true;
@@ -3051,7 +3051,7 @@ namespace LinearRegression
             // sumx1x1
             // 
             this.sumx1x1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx1x1.Location = new System.Drawing.Point(1451, 279);
+            this.sumx1x1.Location = new System.Drawing.Point(1407, 279);
             this.sumx1x1.Name = "sumx1x1";
             this.sumx1x1.ReadOnly = true;
             this.sumx1x1.Size = new System.Drawing.Size(98, 20);
@@ -3064,7 +3064,7 @@ namespace LinearRegression
             this.label30.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label30.ForeColor = System.Drawing.Color.White;
-            this.label30.Location = new System.Drawing.Point(1451, 101);
+            this.label30.Location = new System.Drawing.Point(1407, 101);
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(79, 17);
             this.label30.TabIndex = 47;
@@ -3074,7 +3074,7 @@ namespace LinearRegression
             // x1x1valuestxtbox
             // 
             this.x1x1valuestxtbox.AcceptsReturn = true;
-            this.x1x1valuestxtbox.Location = new System.Drawing.Point(1451, 118);
+            this.x1x1valuestxtbox.Location = new System.Drawing.Point(1407, 118);
             this.x1x1valuestxtbox.Multiline = true;
             this.x1x1valuestxtbox.Name = "x1x1valuestxtbox";
             this.x1x1valuestxtbox.ReadOnly = true;
@@ -3085,7 +3085,7 @@ namespace LinearRegression
             // sumyym
             // 
             this.sumyym.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumyym.Location = new System.Drawing.Point(1347, 279);
+            this.sumyym.Location = new System.Drawing.Point(1303, 279);
             this.sumyym.Name = "sumyym";
             this.sumyym.ReadOnly = true;
             this.sumyym.Size = new System.Drawing.Size(98, 20);
@@ -3098,7 +3098,7 @@ namespace LinearRegression
             this.label29.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.ForeColor = System.Drawing.Color.White;
-            this.label29.Location = new System.Drawing.Point(1347, 101);
+            this.label29.Location = new System.Drawing.Point(1303, 101);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(79, 17);
             this.label29.TabIndex = 44;
@@ -3108,7 +3108,7 @@ namespace LinearRegression
             // yymvaluestxtbox
             // 
             this.yymvaluestxtbox.AcceptsReturn = true;
-            this.yymvaluestxtbox.Location = new System.Drawing.Point(1347, 118);
+            this.yymvaluestxtbox.Location = new System.Drawing.Point(1303, 118);
             this.yymvaluestxtbox.Multiline = true;
             this.yymvaluestxtbox.Name = "yymvaluestxtbox";
             this.yymvaluestxtbox.ReadOnly = true;
@@ -3119,7 +3119,7 @@ namespace LinearRegression
             // sumx3y
             // 
             this.sumx3y.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx3y.Location = new System.Drawing.Point(1240, 279);
+            this.sumx3y.Location = new System.Drawing.Point(1196, 279);
             this.sumx3y.Name = "sumx3y";
             this.sumx3y.ReadOnly = true;
             this.sumx3y.Size = new System.Drawing.Size(98, 20);
@@ -3132,7 +3132,7 @@ namespace LinearRegression
             this.label28.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label28.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label28.ForeColor = System.Drawing.Color.White;
-            this.label28.Location = new System.Drawing.Point(1240, 101);
+            this.label28.Location = new System.Drawing.Point(1196, 101);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(79, 17);
             this.label28.TabIndex = 41;
@@ -3142,7 +3142,7 @@ namespace LinearRegression
             // x3yvaluestxtbox
             // 
             this.x3yvaluestxtbox.AcceptsReturn = true;
-            this.x3yvaluestxtbox.Location = new System.Drawing.Point(1240, 118);
+            this.x3yvaluestxtbox.Location = new System.Drawing.Point(1196, 118);
             this.x3yvaluestxtbox.Multiline = true;
             this.x3yvaluestxtbox.Name = "x3yvaluestxtbox";
             this.x3yvaluestxtbox.ReadOnly = true;
@@ -3153,7 +3153,7 @@ namespace LinearRegression
             // sumx2y
             // 
             this.sumx2y.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx2y.Location = new System.Drawing.Point(1133, 279);
+            this.sumx2y.Location = new System.Drawing.Point(1089, 279);
             this.sumx2y.Name = "sumx2y";
             this.sumx2y.ReadOnly = true;
             this.sumx2y.Size = new System.Drawing.Size(98, 20);
@@ -3166,7 +3166,7 @@ namespace LinearRegression
             this.label27.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label27.ForeColor = System.Drawing.Color.White;
-            this.label27.Location = new System.Drawing.Point(1133, 101);
+            this.label27.Location = new System.Drawing.Point(1089, 101);
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(79, 17);
             this.label27.TabIndex = 38;
@@ -3176,7 +3176,7 @@ namespace LinearRegression
             // x2yvaluestxtbox
             // 
             this.x2yvaluestxtbox.AcceptsReturn = true;
-            this.x2yvaluestxtbox.Location = new System.Drawing.Point(1133, 118);
+            this.x2yvaluestxtbox.Location = new System.Drawing.Point(1089, 118);
             this.x2yvaluestxtbox.Multiline = true;
             this.x2yvaluestxtbox.Name = "x2yvaluestxtbox";
             this.x2yvaluestxtbox.ReadOnly = true;
@@ -3187,7 +3187,7 @@ namespace LinearRegression
             // sumx1y
             // 
             this.sumx1y.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx1y.Location = new System.Drawing.Point(1023, 279);
+            this.sumx1y.Location = new System.Drawing.Point(979, 279);
             this.sumx1y.Name = "sumx1y";
             this.sumx1y.ReadOnly = true;
             this.sumx1y.Size = new System.Drawing.Size(98, 20);
@@ -3200,7 +3200,7 @@ namespace LinearRegression
             this.label26.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.ForeColor = System.Drawing.Color.White;
-            this.label26.Location = new System.Drawing.Point(1024, 101);
+            this.label26.Location = new System.Drawing.Point(980, 101);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(79, 17);
             this.label26.TabIndex = 35;
@@ -3210,7 +3210,7 @@ namespace LinearRegression
             // x1yvaluestxtbox
             // 
             this.x1yvaluestxtbox.AcceptsReturn = true;
-            this.x1yvaluestxtbox.Location = new System.Drawing.Point(1024, 118);
+            this.x1yvaluestxtbox.Location = new System.Drawing.Point(980, 118);
             this.x1yvaluestxtbox.Multiline = true;
             this.x1yvaluestxtbox.Name = "x1yvaluestxtbox";
             this.x1yvaluestxtbox.ReadOnly = true;
@@ -3221,7 +3221,7 @@ namespace LinearRegression
             // sumx3m
             // 
             this.sumx3m.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx3m.Location = new System.Drawing.Point(901, 375);
+            this.sumx3m.Location = new System.Drawing.Point(863, 375);
             this.sumx3m.Name = "sumx3m";
             this.sumx3m.ReadOnly = true;
             this.sumx3m.Size = new System.Drawing.Size(98, 20);
@@ -3233,7 +3233,7 @@ namespace LinearRegression
             this.label25.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label25.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(901, 153);
+            this.label25.Location = new System.Drawing.Point(863, 153);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(24, 17);
             this.label25.TabIndex = 32;
@@ -3244,7 +3244,7 @@ namespace LinearRegression
             // 
             this.x3valuestxtbox.AcceptsReturn = true;
             this.x3valuestxtbox.BackColor = System.Drawing.Color.Gainsboro;
-            this.x3valuestxtbox.Location = new System.Drawing.Point(901, 170);
+            this.x3valuestxtbox.Location = new System.Drawing.Point(863, 170);
             this.x3valuestxtbox.Multiline = true;
             this.x3valuestxtbox.Name = "x3valuestxtbox";
             this.x3valuestxtbox.ReadOnly = true;
@@ -3255,7 +3255,7 @@ namespace LinearRegression
             // sumx2m
             // 
             this.sumx2m.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx2m.Location = new System.Drawing.Point(800, 375);
+            this.sumx2m.Location = new System.Drawing.Point(762, 375);
             this.sumx2m.Name = "sumx2m";
             this.sumx2m.ReadOnly = true;
             this.sumx2m.Size = new System.Drawing.Size(98, 20);
@@ -3267,7 +3267,7 @@ namespace LinearRegression
             this.label24.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label24.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(800, 153);
+            this.label24.Location = new System.Drawing.Point(762, 153);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(24, 17);
             this.label24.TabIndex = 29;
@@ -3278,7 +3278,7 @@ namespace LinearRegression
             // 
             this.x2valuestxtbox.AcceptsReturn = true;
             this.x2valuestxtbox.BackColor = System.Drawing.Color.Gainsboro;
-            this.x2valuestxtbox.Location = new System.Drawing.Point(800, 170);
+            this.x2valuestxtbox.Location = new System.Drawing.Point(762, 170);
             this.x2valuestxtbox.Multiline = true;
             this.x2valuestxtbox.Name = "x2valuestxtbox";
             this.x2valuestxtbox.ReadOnly = true;
@@ -3289,7 +3289,7 @@ namespace LinearRegression
             // sumx1m
             // 
             this.sumx1m.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumx1m.Location = new System.Drawing.Point(699, 375);
+            this.sumx1m.Location = new System.Drawing.Point(661, 375);
             this.sumx1m.Name = "sumx1m";
             this.sumx1m.ReadOnly = true;
             this.sumx1m.Size = new System.Drawing.Size(98, 20);
@@ -3299,7 +3299,7 @@ namespace LinearRegression
             // sumym
             // 
             this.sumym.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sumym.Location = new System.Drawing.Point(598, 375);
+            this.sumym.Location = new System.Drawing.Point(560, 375);
             this.sumym.Name = "sumym";
             this.sumym.ReadOnly = true;
             this.sumym.Size = new System.Drawing.Size(98, 20);
@@ -3309,7 +3309,7 @@ namespace LinearRegression
             // label21
             // 
             this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(558, 381);
+            this.label21.Location = new System.Drawing.Point(520, 381);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(40, 23);
             this.label21.TabIndex = 25;
@@ -3320,7 +3320,7 @@ namespace LinearRegression
             this.label22.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label22.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(699, 153);
+            this.label22.Location = new System.Drawing.Point(661, 153);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(24, 17);
             this.label22.TabIndex = 24;
@@ -3332,7 +3332,7 @@ namespace LinearRegression
             this.label23.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label23.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(598, 153);
+            this.label23.Location = new System.Drawing.Point(560, 153);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(20, 17);
             this.label23.TabIndex = 23;
@@ -3343,7 +3343,7 @@ namespace LinearRegression
             // 
             this.x1valuestxtbox.AcceptsReturn = true;
             this.x1valuestxtbox.BackColor = System.Drawing.Color.Gainsboro;
-            this.x1valuestxtbox.Location = new System.Drawing.Point(699, 170);
+            this.x1valuestxtbox.Location = new System.Drawing.Point(661, 170);
             this.x1valuestxtbox.Multiline = true;
             this.x1valuestxtbox.Name = "x1valuestxtbox";
             this.x1valuestxtbox.ReadOnly = true;
@@ -3355,7 +3355,7 @@ namespace LinearRegression
             // 
             this.ymvaluestxtbox.AcceptsReturn = true;
             this.ymvaluestxtbox.BackColor = System.Drawing.Color.GreenYellow;
-            this.ymvaluestxtbox.Location = new System.Drawing.Point(598, 170);
+            this.ymvaluestxtbox.Location = new System.Drawing.Point(560, 170);
             this.ymvaluestxtbox.Multiline = true;
             this.ymvaluestxtbox.Name = "ymvaluestxtbox";
             this.ymvaluestxtbox.ScrollBars = System.Windows.Forms.ScrollBars.Both;
@@ -3369,7 +3369,7 @@ namespace LinearRegression
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(1574, 808);
+            this.ClientSize = new System.Drawing.Size(1540, 808);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.SystemColors.Desktop;

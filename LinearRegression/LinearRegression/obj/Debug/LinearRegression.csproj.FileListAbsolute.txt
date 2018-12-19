@@ -46,3 +46,11 @@ C:\Users\Chirag\Google Drive\VS_2015\LinearRegression\LinearRegression\obj\Debug
 C:\Users\Chirag\Google Drive\VS_2015\LinearRegression\LinearRegression\obj\Debug\LinearRegression.MainForm.resources
 C:\Users\Chirag\Google Drive\VS_2015\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Properties.Resources.resources
 C:\Users\Chirag\Google Drive\VS_2015\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.GenerateResource.Cache
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\bin\Debug\LinearRegression.pdb
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.MainForm.resources
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Properties.Resources.resources
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.GenerateResource.cache
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.CoreCompileInputs.cache
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.exe
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.pdb

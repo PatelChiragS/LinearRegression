@@ -26,7 +26,13 @@ namespace LinearRegression
 	/// </summary>
 	public partial class MainForm : Form
 	{
-		public MainForm()
+        //private void MainForm_Load(object sender, EventArgs e)
+        //{
+        //    this.AutoSize = true;
+        //    this.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+        //}
+
+        public MainForm()
 		{			
 			InitializeComponent();
 		}

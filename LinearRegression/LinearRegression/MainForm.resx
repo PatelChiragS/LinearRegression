@@ -121,10 +121,10 @@
     <value>True</value>
   </metadata>
   <data name="label70.Text" xml:space="preserve">
-    <value>Plot Residual vs independent x: A non-random pattern suggests that a simple linear model is not appropriate; if that is the case then you may need to transform the response or predictor, or add a quadratic or higher term to the model.</value>
+    <value>A non-random pattern suggests that a simple linear model is not appropriate; if that is the case then you may need to transform the response or predictor, or add a quadratic or higher term to the model.</value>
   </data>
   <data name="label61.Text" xml:space="preserve">
-    <value>Plot Residual vs Predictor: A non-random pattern suggests that a simple linear model is not appropriate; if that is the case then you may need to transform the response or predictor, or add a quadratic or higher term to the model.</value>
+    <value>A non-random pattern suggests that a simple linear model is not appropriate; if that is the case then you may need to transform the response or predictor, or add a quadratic or higher term to the model.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
