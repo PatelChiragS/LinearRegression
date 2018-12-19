@@ -54,3 +54,4 @@ C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\L
 C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.CoreCompileInputs.cache
 C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.exe
 C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.pdb
+C:\Users\chirag.patel\Documents\GitHub_Repos\LinearRegression\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csprojAssemblyReference.cache

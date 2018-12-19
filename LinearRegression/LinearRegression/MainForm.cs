@@ -1463,11 +1463,9 @@ namespace LinearRegression
         private void tabPage1_Click(object sender, EventArgs e)
         {
         }
-
         private void panel5_Paint(object sender, PaintEventArgs e)
         {
         }
-
         private void tabPage2_Click(object sender, EventArgs e)
         {
         }
